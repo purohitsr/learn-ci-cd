@@ -18,6 +18,11 @@ public class Tests {
 		Assert.assertTrue("Selenium".equalsIgnoreCase("Selenium"));
 	}
 	
+	@Test
+	public void test3() {
+		Assert.assertTrue("Cypress".equalsIgnoreCase("Cypre"));
+	}
+	
 	
 	
 	
