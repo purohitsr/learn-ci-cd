@@ -10,7 +10,7 @@ public class AppTest {
 	
 	@Test
 	public void test1() {
-		Assert.assertTrue("saurav".equalsIgnoreCase("saurav"));
+		Assert.assertTrue("Selenium".equalsIgnoreCase("Selenium"));
 	}
 	
 	
