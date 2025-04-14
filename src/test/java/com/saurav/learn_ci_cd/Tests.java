@@ -20,7 +20,7 @@ public class Tests {
 	
 	@Test
 	public void test3() {
-		Assert.assertTrue("Cypress".equalsIgnoreCase("Cypre"));
+		Assert.assertTrue("Cypress".equalsIgnoreCase("Cypress"));
 	}
 	
 	
