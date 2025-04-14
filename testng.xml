@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AgentAssist Test Suite" verbose="10">
+    <!--<parameter name="Env" value="Prod"></parameter>-->
+    <test name="ci-cd tests" >
+        <classes>
+            <class name="com.saurav.learn_ci_cd.Tests">
+            </class>
+        </classes>
+    </test>
+
+</suite> 
